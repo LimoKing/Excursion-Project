@@ -1,24 +1,24 @@
-#Excursion Project
+##Excursion Project
 This is a web page for an future app called excursion.
 
-#Technologies
+##Technologies
 HTML5
 CSS
 VScode
 
-#Launch
+##Launch
+https://limoking.github.io/LimoKing.github.io/
 
-
-#Status
+##Status
 Finished (probably a future update)
 
-#Features
+##Features
 Basic HTML5 and semantics
 Basic CSS and semantics
 
-#Future Updates
+##Future Updates
 Buttons for reservation
 newsletter signup
 
-#Contact
+##Contact
 leymerf@gmail.com

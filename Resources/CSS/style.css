@@ -3,6 +3,8 @@ body
 {
     background-color: black;
     font-family: Verdana;
+    color: white;
+    text-align: center;
 }
 
 /* Header Configs */
@@ -10,8 +12,6 @@ header
 {
     font-weight: normal;
     font-size: 50px;
-    color: white;
-    text-align: center;
 }
 
 .header-text
@@ -23,4 +23,18 @@ header
 {
     color: aquamarine;
     font-size: 16px;
+}
+
+/* Body Section Configs */
+.middle-section
+{
+    font-weight: 300;
+    font-size: 42px;
+    text-align: center;
+}
+
+h2
+{
+    font-size: 21px;
+    color: gray;
 }
